@@ -1,6 +1,8 @@
 # Unity 数据持久化完全指南  
 
 本仓库包含了关于Unity数据持久化的完整指南，从简单的PlayerPrefs到更复杂的SQLite数据库操作，为开发者提供了全面的解决方案和示例代码。  
+本仓库文章请点击此处，Unity数据持久化完全指南:从PlayerPrefs到SQLite
+https://sodebug.com/GameDevelop/PlayerPrefs.html
 
 ## 内容概述  
 ![image](https://github.com/Charlielyo/Unity-Data-Persistence-Demo/assets/78399982/1b219aa3-71a9-480a-a3f9-9daefd95c3d9)
