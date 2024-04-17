@@ -45,6 +45,7 @@ JSON是一种轻量级的数据交换格式,具有可读性好、跨平台性强
 ## 4.XML序列化: 适用于复杂数据结构
 
 XML格式天生支持表示层次化的数据结构,可以很好地处理自定义类型、集合等复杂对象。在Unity中,我们可以使用System.Xml命名空间提供的类进行XML序列化和反序列化操作。XML 序列化是一种常用的数据持久化方法之一，它可以将对象的状态转换为 XML 格式，然后保存到文件中。Unity 中使用 XML 序列化通常需要结合 .NET 中提供的 `System.Xml.Serialization` 命名空间。
+<img width="693" alt="XML" src="https://github.com/Charlielyo/Unity-Data-Persistence-Demo/assets/78399982/3b9ad85f-90ca-495d-998a-86cb4f215391">
 
 ## 5.SQLite: 强大的关系型数据库
 
