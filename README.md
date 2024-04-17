@@ -3,6 +3,7 @@
 本仓库包含了关于Unity数据持久化的完整指南，从简单的PlayerPrefs到更复杂的SQLite数据库操作，为开发者提供了全面的解决方案和示例代码。  
 
 ## 内容概述  
+![image](https://github.com/Charlielyo/Unity-Data-Persistence-Demo/assets/78399982/1b219aa3-71a9-480a-a3f9-9daefd95c3d9)
 
  ## 1.PlayerPrefs: 轻量级键值存储
  **保存和加载玩家分数、用户名和音量设置示例**
